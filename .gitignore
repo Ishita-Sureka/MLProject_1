@@ -73,3 +73,5 @@ pip-delete-this-directory.txt
 
 # Logs
 *.log
+venv/
+*.egg-info/
